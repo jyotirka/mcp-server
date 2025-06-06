@@ -1,5 +1,6 @@
 *MCP Weather Server*
 Documentation Reference: This project follows the official Model Context Protocol (MCP) Quickstart guide to build and integrate the MCP server.
+https://modelcontextprotocol.io/quickstart/server#testing-your-server-with-claude-for-desktop
 This is a simple MCP (Model Context Protocol) server that exposes weather tools (`get-alerts` and `get-forecast`) to be used by AI agents or custom applications.
 
 *Features*
